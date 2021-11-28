@@ -13,3 +13,4 @@ crée par la G_Corporation
 
 ![screenshot](https://media.discordapp.net/attachments/658236178268684291/914622941872918529/unknown.png)
 
+###Dépendance : https://github.com/DevTestingPizza/vSync/tree/v1.4.0
